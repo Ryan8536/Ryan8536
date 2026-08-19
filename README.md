@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ryan
 
-<!--
-**Ryan8536/Ryan8536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Florida State University, graduating May 2028. I like building systems that have to reason and react — AI planning, control systems, and full-stack apps.
 
-Here are some ideas to get you started:
+Right now I split my time between AI planning research at FSU and an upcoming research role at the National MagLab, working on quench-detection algorithms for superconducting magnets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I've built
+
+**[AI Planning & Replanning Simulator](https://github.com/Ryan8536/pddl-anomaly-simulator)**
+A logistics-plan simulator that injects real-time anomalies (road closures, breakdowns, urgent deliveries) and automatically replans using case-based reasoning + the Fast Downward planner. Grew out of my AI planning research.
+`Python` `PDDL` `Fast Downward`
+
+**[Learning Management System](https://github.com/Ryan8536/learning-management)**
+Full-stack LMS built with a partner — started as a CLI tool, grew into a cross-platform MAUI app backed by a REST API. Handles courses, assignments, weighted grading, and submissions, with CI/CD via GitHub Actions.
+`C#` `.NET MAUI` `ASP.NET Web API` `GitHub Actions`
+
+**PID-Controlled Insulin Pump System**
+Closed-loop PID controller on embedded hardware, tuned to regulate blood glucose response — my first real hands-on control systems project.
+`Arduino` `C++` `Control Systems`
+
+**Digital logic / Verilog** *(uploading soon)*
+Combinational and sequential circuit designs from coursework.
+
+### Tech I work with
+
+`C++` `Python` `C#` `JavaScript` `Verilog`
+
+.NET MAUI · ASP.NET Web API · PDDL / Fast Downward · GitHub Actions · Git · Linux · Quartus · Arduino
+
+### Currently
+
+Doing AI planning research at FSU, leading programming workshops for CodEducation FSU, and about to start on quench-detection algorithms at the National High Magnetic Field Laboratory.
+
+---
+
+📫 [LinkedIn](https://linkedin.com/in/ryanelharrada) · elharradaryan@gmail.com
