@@ -18,12 +18,13 @@ Full-stack LMS built with a partner — started as a CLI tool, grew into a cross
 Closed-loop PID controller on embedded hardware, tuned to regulate blood glucose response — my first real hands-on control systems project.
 `Arduino` `C++` `Control Systems`
 
-**Digital logic / Verilog** *(uploading soon)*
-Combinational and sequential circuit designs from coursework.
+**[FPGA Football Scoreboard](https://github.com/Ryan8536/fpga-football-scoreboard)**
+Digital logic final project on a DE1-SoC FPGA board — tracks two-team football scoring, possession, and a game clock, driven out to seven-segment displays.
+`Verilog` `Quartus` `Intel DE1-SoC development board`
 
 ### Tech I work with
 
-`C++` `Python` `C#` `JavaScript` `Verilog`
+`C` `C++` `Python` `C#` `JavaScript` `Verilog` 
 
 .NET MAUI · ASP.NET Web API · PDDL / Fast Downward · GitHub Actions · Git · Linux · Quartus · Arduino
 
