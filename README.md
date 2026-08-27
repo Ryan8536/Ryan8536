@@ -1,6 +1,6 @@
 # Hi, I'm Ryan
 
-Computer Engineering student at Florida State University, graduating May 2028. I like building systems that have to reason and react — AI planning, control systems, and full-stack apps.
+Computer Engineering student at Florida State University, graduating May 2028. I like building systems that have to reason and react including AI planning, control systems, and full-stack apps.
 
 Right now I split my time between AI planning research at FSU and an upcoming research role at the National MagLab, working on quench-detection algorithms for superconducting magnets.
 
