@@ -10,9 +10,10 @@ Right now I split my time between AI planning research at FSU and an upcoming re
 A logistics-plan simulator that injects real-time anomalies (road closures, breakdowns, urgent deliveries) and automatically replans using case-based reasoning + the Fast Downward planner. Grew out of my AI planning research.
 `Python` `PDDL` `Fast Downward`
 
-**[Learning Management System](https://github.com/Ryan8536/learning-management)**
-Full-stack LMS built with a partner — started as a CLI tool, grew into a cross-platform MAUI app backed by a REST API. Handles courses, assignments, weighted grading, and submissions, with CI/CD via GitHub Actions.
-`C#` `.NET MAUI` `ASP.NET Web API` `GitHub Actions`
+**[TestBench — Engineering Test & Validation Platform](https://github.com/Ryan8536/TestBench)**
+Cross-platform application for defining validation procedures, recording measurements, and automatically evaluating pass/fail results against engineering tolerance limits. Includes authentication, role-based workflows, manager review, equipment reservations, dashboard reporting, persistent storage, and 12 automated tests.
+`C#` · `.NET MAUI` · `XAML` · `JSON` · `LINQ`
+
 
 **PID-Controlled Insulin Pump System**
 Closed-loop PID controller on embedded hardware, tuned to regulate blood glucose response — my first real hands-on control systems project.
